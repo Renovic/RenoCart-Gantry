@@ -38,3 +38,16 @@ The y belts will be above the x belts because the motors pull the center of mass
 It has a tensioner integerated at the rear, and the front will have a static belt clamp.
 
 **Total time spent: 7h**
+
+# March 14th: XY Joint
+I focused on getting all of the features of the xy joint done. 
+
+<img width="824" height="644" alt="image" src="https://github.com/user-attachments/assets/2e395aac-8ef5-44b6-b6b2-5a2a9b234902" />
+<img width="720" height="609" alt="image" src="https://github.com/user-attachments/assets/05f2e90e-bd14-45a2-a306-66f679dccdea" />
+<img width="875" height="573" alt="image" src="https://github.com/user-attachments/assets/f6331657-4b53-4642-927b-d768419a5759" />
+
+The y belt clearance, clamping and tensioning was the hardest part to integrate into the part. 
+
+I'll just need to finish the part by adding chamfers and fillets, and I can move onto the y motor mounts.
+
+**Total time spent: 8h**
