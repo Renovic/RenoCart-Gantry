@@ -3,6 +3,9 @@
 <img width="1232" height="693" alt="BoxCart Gantry v1" src="https://github.com/user-attachments/assets/175ec678-c017-4f9d-bbb0-b85eead9986c" />
 
 The BoxCart-Gantry is a cartesian gantry for voron trident-like printers. Specifically for large print sizes(>350mm).
+### Files
+* [CAD](/BoxcartGantry.step)
+* [BOM(csv)](Bom.csv)
 
 ### Project goals:
 - Short belt paths
