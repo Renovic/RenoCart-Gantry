@@ -24,3 +24,8 @@ The BoxCart-Gantry is a cartesian gantry for voron trident-like printers. Specif
 | M3 Heatsets | 4 |  |  |
 | M3 Square Nuts | 2 |  |  |
 | Total | | 74.03 | |
+
+### Credits
+- [Monolith gantry](https://github.com/Monolith3D/Monolith_Gantry) for design inspiration
+- [Annex k3](https://github.com/Annex-Engineering/Gasherbrum-K3 ) for tensioners
+- [Burgo](https://github.com/Kizime123) for help with ideation and general advice
