@@ -50,4 +50,24 @@ The y belt clearance, clamping and tensioning was the hardest part to integrate 
 
 I'll just need to finish the part by adding chamfers and fillets, and I can move onto the y motor mounts.
 
-**Total time spent: 8h**
+**Total time spent: 15h**
+
+# March 20th: Finished
+I started with finishing up the xy joint/x-axis, by adding all of the fasteners and motion components.
+<img width="897" height="582" alt="image" src="https://github.com/user-attachments/assets/d3944687-0d71-4a79-a0a0-0ab649471f22" />
+The y-axis tensioner is based on the Annex K3 tensioners. https://github.com/Annex-Engineering/Gasherbrum-K3 
+
+I then worked on the rear motor mounts. 
+<img width="947" height="604" alt="image" src="https://github.com/user-attachments/assets/3402efa1-c687-452d-ae22-0981b882ce2d" />
+They are pretty simple, just a motor and double shear support. There was a lot of inspiration drawn from the [Monolith gantry](https://github.com/Monolith3D/Monolith_Gantry). 
+
+The front motor mounts were basically the same.
+<img width="807" height="618" alt="image" src="https://github.com/user-attachments/assets/a387c7ac-4e9e-4e7e-b6a2-3d6e56edde2f" />
+
+And heres the full gantry:
+<img width="1043" height="597" alt="image" src="https://github.com/user-attachments/assets/4fbd76ec-21c2-4e9a-a227-5ea387cc7e2d" />
+
+It loses about 13mm of travel on stock voron size, but the printer I'm planning on using it on has significant y overtravel. 
+Also, it probably shouldn't be used on a 250mm printer as its focused towards larger printers. 
+
+**Total time spent: 23h**
